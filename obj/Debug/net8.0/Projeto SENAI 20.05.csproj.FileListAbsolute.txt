@@ -12,3 +12,4 @@ C:\Users\486067624\Documents\2026\Maio\Projeto SENAI 20.05\obj\Debug\net8.0\refi
 C:\Users\486067624\Documents\2026\Maio\Projeto SENAI 20.05\obj\Debug\net8.0\Projeto SENAI 20.05.pdb
 C:\Users\486067624\Documents\2026\Maio\Projeto SENAI 20.05\obj\Debug\net8.0\Projeto SENAI 20.05.genruntimeconfig.cache
 C:\Users\486067624\Documents\2026\Maio\Projeto SENAI 20.05\obj\Debug\net8.0\ref\Projeto SENAI 20.05.dll
+C:\Users\486067624\Documents\2026\Maio\Projeto SENAI 20.05\obj\Debug\net8.0\Projeto SENAI 20.05.sourcelink.json

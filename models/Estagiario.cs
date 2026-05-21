@@ -8,7 +8,7 @@ namespace Projeto_SENAI_20._05.models
     public class Estagiario : Funcionario
     {
             public override void ApresentarSalario(){
-                Console.WriteLine($" Posição: Estagiario  =======  Nome: {Nome} ======= Salario: {Salario + (Salario * (5/100))} ");
+                Console.WriteLine($" Posição: Estagiario  =======  Nome: {Nome} ======= Salario: {Salario + (Salario * 0.05)} ");
         }
     }
 }

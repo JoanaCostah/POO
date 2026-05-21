@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto SENAI 20.05")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36153ed048c0dda629da47c8738fb7026b25c489")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto SENAI 20.05")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto SENAI 20.05")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

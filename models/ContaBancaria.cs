@@ -39,7 +39,7 @@ namespace Projeto_SENAI_20._05.models
         {
             Console.WriteLine($"Número: {Numero}");
             Console.WriteLine($"Titular: {Titular}");
-            Console.WriteLine($"Saldo: R${saldo}");
+            Console.WriteLine($"Saldo: R$ {Saldo}");
         }
     }
 }

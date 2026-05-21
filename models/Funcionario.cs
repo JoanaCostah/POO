@@ -9,7 +9,7 @@ namespace Projeto_SENAI_20._05.models
     {
         public string Nome { get; set; }
 
-        public decimal Salario { get; set; }
+        public double Salario { get; set; }
 
         public virtual void ApresentarSalario()
         {
